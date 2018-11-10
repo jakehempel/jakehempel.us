@@ -1,0 +1,18 @@
+---
+layout: default
+title: My Musings
+categories: list-pages
+---
+
+<h2>Various topics I think about. Expect some ranting.</h2>
+
+<br>
+
+<ul>
+  {% for post in site.categories.musings %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>

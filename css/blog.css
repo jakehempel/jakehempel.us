@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box:
+}
+
+/*
+Text
+*/
+
+a {
+  color: #00FF00;
+}
+
+p {
+  /*color: #00cc00;*/
+  /*color: #bfbfbf;*/
+  /*font-size:16px;*/
+}
+
+h4 {
+  text-decoration: underline;
+}
+
+.bigtext {
+  font-size: 200%;
+  font-weight: bold;
+  font-family: Impact;
+  color: red;
+}
+
+
+
+/*
+Divs and Formatting
+*/
+
+body {
+  background-color: #000000;
+  text-align: center;
+  color: #bfbfbf;
+  font-family: "Courier New";
+}
+
+.footer {
+  padding: 15px;
+  font-size: 14px;
+}
+
+.container {
+    width:90%;
+    padding:30px;
+    font-size: 16px;
+    font-family: "Times New Roman";
+    margin:10px auto 10px auto;
+    background-color: #003300;
+    /*border-style: outset;*/
+    text-align: left;
+    color: #f2f2f2;
+}
+
+img .container {
+  text-align:center;
+}
+
+button {
+  background-color: #000000;
+  font-family: "Courier New";
+  font-size: 18px;
+  color: #bfbfbf;
+  padding: 5px;
+}
+
+ul {
+  text-align: left;
+}

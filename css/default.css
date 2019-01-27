@@ -33,6 +33,8 @@ h4 {
 Divs and Formatting
 */
 
+
+
 body {
   background-color: #000000;
   text-align: center;
@@ -46,7 +48,7 @@ body {
 }
 
 .container {
-    width:90%;
+    max-width:80%;
     padding:30px;
     font-size: 16px;
     margin:10px auto 10px auto;
@@ -54,7 +56,9 @@ body {
     font-family: "Times New Roman";
     /*border-style: outset;*/
     text-align: center;
+    align: center;
     color: #f2f2f2;
+
 }
 
 button {

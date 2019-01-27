@@ -10,16 +10,23 @@ title: Home
 
 #menus
 {
-
-  text-align: center;
-  padding: 10px;
-  max-width: 70%;
+  display: table;
+  width: 100%;
 }
 
 .menu_blocks
 {
-  display: inline;
-  width: 10%;
+  width: 20%;
+  display: table-cell;
+  padding: 10px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .menu_blocks {
+    display: block;
+    width: 100%;
+  }
 }
 
 </style>
@@ -31,14 +38,10 @@ title: Home
 
 <br>
 
-<button id="button1">Personal</button>
-<button id="button2">Professional</button>
-<button id="button3">Things I do</button>
-
 <div id="menus">
 
   <div class="menu_blocks">
-
+    <h2>Personal</h2>
     <table>
       <tr>
         <p><a href="about.html">About Me</a></p>
@@ -50,7 +53,7 @@ title: Home
   </div>
 
   <div class="menu_blocks">
-
+    <h2>Professional</h2>
     <table>
       <tr>
         <p><a href="resume.html">My Resume</a></p>
@@ -60,7 +63,7 @@ title: Home
   </div>
 
   <div class="menu_blocks">
-
+    <h2>Things I do</h2>
     <table>
       <tr>
         <p><a href="musings.html">My Musings</a></p>

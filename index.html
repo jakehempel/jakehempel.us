@@ -1,8 +1,76 @@
 ---
-title: HALT STRANGER
 layout: default
+title: Home
 ---
 
-<img src="assets/img/wizard.png" alt="Grand Wizard">
-<p>You must pay respect to the wise wizard before entering.</p>
-<a href="home.html">*Pay Respect*</a>
+
+<script src="assets/jquery-3.3.1.min.js"></script>
+
+<style>
+
+#menus
+{
+  display: table;
+  width: 100%;
+}
+
+.menu_blocks
+{
+  width: 20%;
+  display: table-cell;
+  padding: 15px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 800px) {
+  .menu_blocks {
+    display: block;
+    width: 100%;
+  }
+}
+
+</style>
+
+
+<p>Hello, welcome to Jake Hempel's cyber estate.</p>
+<p>This space exists as a dumping ground for whatever I may find important.</p>
+<p>Please enjoy your stay.</p>
+
+<div id="menus">
+
+  <div class="menu_blocks">
+    <h4>Personal</h4>
+    <table>
+      <tr>
+        <p><a href="about.html">About Me</a></p>
+      </tr>
+      <tr>
+        <p><a href="contact.html">Contact Me</a></p>
+    </table>
+
+  </div>
+
+  <div class="menu_blocks">
+    <h4>Professional</h4>
+    <table>
+      <tr>
+        <p><a href="resume.html">My Resume</a></p>
+      </tr>
+    </table>
+
+  </div>
+
+  <div class="menu_blocks">
+    <h4>Things I do</h4>
+    <table>
+      <tr>
+        <p><a href="musings.html">My Musings</a></p>
+      </tr>
+      <tr>
+        <p><a href="projects.html">Projects I've Done</a></p>
+      </tr>
+    </table>
+
+  </div>
+
+</div>

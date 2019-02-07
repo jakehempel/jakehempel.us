@@ -10,7 +10,7 @@ layout: static
 <h4>Hobbies and Interests</h4>
 <p>I would like to consider myself somewhat of a polymath: one whose expertise lies in a myraid of different activities. Over the years I've picked up many different hobbies and dabbled in many more. Here are some things I like to do in no particular order.</p>
 
-<p><strong>Gaming</strong> - Since I was young enough to use a computer, I've been an avid gaming enthusiast. I've always been fascenated by the possibilites presented by a virtual world in which all parameters and rules can be adjusted to create unique experiences. While I love all kinds of games, I mainly prefer FPS's and survival horror games as those games tend to be more immersive and engaging. A more much detailed list of games I like can be found <a href="games.html">here</a>.</p>
+<p><strong>Gaming</strong> - Since I was young enough to use a computer, I've been an avid gaming enthusiast. I've always been fascinated by the possibilities presented by a virtual world in which all parameters and rules can be adjusted to create unique experiences. While I love all kinds of games, I mainly prefer FPS's and survival horror games as those games tend to be more impressive and engaging. A more much detailed list of games I like and my philosophy for game design can be found <a href="musings/2019/02/05/games.html">here</a>.</p>
 
 <p><strong>Reading</strong> - I like to do a lot of reading on a myraid of secular topics and enjoy technical reading. In particular, I like to read about technology news, history, and politics. I also enjoy reading fiction from time to time, with some of my favorite genres being post apocalyptic and sci-fi.</p>
 

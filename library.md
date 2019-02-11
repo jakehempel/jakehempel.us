@@ -13,6 +13,7 @@ That said, this list will **not** include books that I have read and subsequentl
 - Brynjolfsson, Eric and McAfee, Andrew -- The Second Machine Age
 - Carnegie, Dale -- How to Win Friends and Influence People
 - Comer, Douglas -- Computer Networks and Internets
+- Ellison, Harlan -- I Have No Mouth, and I must Scream
 - Hayden, Micheal -- Playing to the Edge
 - Kabat-Zinn, John -- Mindfulness Meditation for Everyday Life
 - Kigma, Bruce -- The Economics of Information

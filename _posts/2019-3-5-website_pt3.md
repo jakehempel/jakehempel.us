@@ -1,5 +1,5 @@
 ---
-title: Making this Website, Part 3: Server Migration
+title: Making this Website, Part 3 - Server Migration
 layout: projects
 categories: projects
 ---
@@ -19,4 +19,4 @@ Since I deploy my website using Github and Jekyll, host migration was a breeze. 
 
 Besides that, most changes I've been making now and mostly minor tweaks, such as adjusting CSS properties to my liking, fixing minor bugs, and adding little touches like the Favicon. I've also been experimenting with ways I can streamline my work-flow by scripting most of the mundane stuff, such as learning how to send remote commands to the VPS to run the update script whenever I push to the Github repository. It's good practice since I'm constantly finding new ways to apply myself.
 
-I truly find it fun slowly growing this site, I find it amazing how much the whole endeavor of designing and implementation has evolved since its inception and how much I've learned along the way. I still plan on continuing maintaining this as an ongoing project and web presence for myself among other things since working on it and gradually adding to it has been a somewhat therapeutic process as well as a productive hobby. 
+I truly find it fun slowly growing this site, I find it amazing how much the whole endeavor of designing and implementation has evolved since its inception and how much I've learned along the way. I still plan on continuing maintaining this as an ongoing project and web presence for myself among other things since working on it and gradually adding to it has been a somewhat therapeutic process as well as a productive hobby.

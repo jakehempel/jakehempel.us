@@ -4,7 +4,7 @@ layout: projects
 categories: projects
 ---
 
-Another update on this website since [last update.](/projects/2019/3/5/website_pt3.md) The most notable thing that happened was me migrating my server from being hosted on my home network onto a dedicated virtual private server.
+Another update on this website since [last update.](/projects/2019/02/09/website_pt2.html) The most notable thing that happened was me migrating my server from being hosted on my home network onto a dedicated virtual private server.
 
 <!--more-->
 

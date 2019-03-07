@@ -10,10 +10,6 @@ a {
   color: #00FF00;
 }
 
-p {
-
-}
-
 h4 {
   text-decoration: underline;
 }
@@ -24,8 +20,6 @@ h4 {
   font-family: Impact;
   color: red;
 }
-
-
 
 /*
 Divs and Formatting
@@ -48,9 +42,8 @@ body {
     padding:30px;
     margin:10px auto 10px auto;
     background-color: #003300;
-    text-align: left;
     overflow: hidden;
-
+    text-align: left;
     font-family: Arial, sans-serif;
     font-size: 12pt;
     color: #ddffdd;
@@ -58,14 +51,6 @@ body {
 
 img .container {
   text-align:center;
-}
-
-button {
-  background-color: #000000;
-  font-family: "Courier New";
-  font-size: 18px;
-  color: #bfbfbf;
-  padding: 5px;
 }
 
 ul {

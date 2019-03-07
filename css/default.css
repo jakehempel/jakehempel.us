@@ -10,10 +10,6 @@ a {
   color: #00FF00;
 }
 
-p {
-
-}
-
 h4 {
   text-decoration: underline;
 }
@@ -25,13 +21,9 @@ h4 {
   color: red;
 }
 
-
-
 /*
 Divs and Formatting
 */
-
-
 
 body {
   background-color: #000000;
@@ -50,11 +42,10 @@ body {
   padding:30px;
   margin:10px auto 10px auto;
   background-color: #003300;
-  text-align: center;
   overflow: hidden;
-
   font-family: Arial, sans-serif;
   font-size: 12pt;
+  text-align: center;
   color: #ddffdd;
 }
 

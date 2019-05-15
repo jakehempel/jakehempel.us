@@ -1,7 +1,7 @@
 ---
 title: Expanding my Horizons of Tea
-layout: musings
-categories: musings
+layout: personal
+categories: personal
 tags: cooking tea food
 ---
 
@@ -33,4 +33,4 @@ So, I'm writing this to document my experience with each of the different tea ba
 
 * **White Tea** - Reminded me a lot of flavor and aroma of green tea, except had a lighter and smoother taste. I think I prefer green tea better, but still good nonetheless.
 
-* **Pure Chamomile** - Another great evening drink when you're getting ready for bed. The aroma of chamomile is very pleasant at night and helps get cozy. 
+* **Pure Chamomile** - Another great evening drink when you're getting ready for bed. The aroma of chamomile is very pleasant at night and helps get cozy.

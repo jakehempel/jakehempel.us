@@ -1,7 +1,7 @@
 ---
 title: My Baseline Recipe for Cookie Experimentation
-layout: projects
-categories: projects
+layout: personal
+categories: personal
 tags: cooking baking cookies
 ---
 

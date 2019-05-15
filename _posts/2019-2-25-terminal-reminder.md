@@ -18,9 +18,19 @@ I arrived then at my current solution. I added this simple block of bash into my
 ```bash
 if [ -s /home/jake/Desktop/todo.txt ]
 then
-        echo "TODO:"
-        cat /home/jake/Desktop/todo.txt
+        ( echo -e "TODO:\n" ; cat /home/vintar/Desktop/todo ) | cowsay -n
+else
+        fortune | cowsay
 fi    
 ```
 
-Every time I open up a new terminal window, it reads the todo.txt file on my desktop. If it's file size is larger than zero -- or it has any text in it -- it will print out its' contents into my terminal window. If there's nothing in the file, it doesn't print anything. Since I'm typically using the command line interface for most of my Linux needs, I see this quite often and it isn't too intrusive in my workflow and I can easily add or remove tasks from this file.
+Every time I open up a new terminal window, it reads the todo.txt file on my desktop. If it's file size is larger than zero -- or it has any text in it -- it will pipe out its' contents into cowsay to make it look classy. If there's nothing in the file, it will just output the afformentioned cow telling my my fortune. Since I'm typically using the command line interface for most of my Linux needs, I see this quite often and it isn't too intrusive in my workflow and I can easily add or remove tasks from this file.
+
+Here's an idea of what the output looks like:
+
+![Cow Task List](/assets/img/cowtask.png)
+
+
+Here's a photo of the cow giving my words of wisdom:
+
+![Cow Wisdom](/assets/img/cowwisdom.png)

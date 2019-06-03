@@ -22,3 +22,4 @@ That said, this list will **not** include books that I have read and subsequentl
 - McCarthy, Cormac -- The Road
 - Sun Tzu -- The Art of War
 - Thoreau, Henry David -- Walden
+- Wade, Paul -- Convict Conditioning

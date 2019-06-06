@@ -18,7 +18,7 @@ I arrived then at my current solution. I added this simple block of bash into my
 ```bash
 if [ -s /home/jake/Desktop/todo.txt ]
 then
-        ( echo -e "TODO:\n" ; cat /home/vintar/Desktop/todo ) | cowsay -n
+        ( echo -e "TODO:\n" ; cat /home/jake/Desktop/todo ) | cowsay -n
 else
         fortune | cowsay
 fi    

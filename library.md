@@ -20,6 +20,7 @@ That said, this list will **not** include books that I have read and subsequentl
 - Koren, Leonard and Goodman, Peter -- Hagglers Handbook
 - Machiavelli, Niccolo -- The Prince
 - McCarthy, Cormac -- The Road
+- Rattle, Alison and Vale, Allison -- American History in Bite-Sized Chunks
 - Sun Tzu -- The Art of War
 - Thoreau, Henry David -- Walden
 - Wade, Paul -- Convict Conditioning

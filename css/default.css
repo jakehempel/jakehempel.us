@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: "95";
+  src: url(/assets/w95fa.woff);
+}
+
 /*
 Text
 */
@@ -29,7 +34,7 @@ body {
   background-color: #000000;
   text-align: center;
   color: #bfbfbf;
-  font-family: "Courier New";
+  font-family: "95";
 }
 
 .footer {
@@ -43,7 +48,7 @@ body {
   margin:10px auto 10px auto;
   background-color: #003300;
   overflow: hidden;
-  font-family: Arial, sans-serif;
+  font-family: "95";
   font-size: 12pt;
   text-align: center;
   color: #ddffdd;

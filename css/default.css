@@ -54,6 +54,15 @@ body {
   color: #ddffdd;
 }
 
+.container a{
+  text-decoration: none;
+}
+
+.container a:hover{
+  color:#003300;
+  background-color:#ddffdd;
+}
+
 button {
   background-color: #000000;
   font-family: "Courier New";

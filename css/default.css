@@ -7,6 +7,13 @@
   src: url(/assets/w95fa.woff);
 }
 
+@media only screen and (max-width: 800px) {
+  .menu_blocks {
+    display: inline-block;
+    width: 90%;
+  }
+}
+
 /*
 Text
 */
@@ -54,7 +61,13 @@ body {
   color: #ddffdd;
 }
 
+.container.blog {
+  text-align: left;
+}
+
 .container a{
+  font-family: Arial, sans-serif;
+  font-family: "95";
   text-decoration: none;
 }
 
@@ -63,20 +76,8 @@ body {
   background-color:#ddffdd;
 }
 
-button {
-  background-color: #000000;
-  font-family: "Courier New";
-  font-size: 18px;
-  width: 30%;
-  color: #bfbfbf;
-  padding: 5px;
-  transition-duration: 0.4s;
-  -webkit-transition-duration: 0.4s;
-}
-
-button:hover {
-  color: #000000;
-  background-color: #bfbfbf;
+.container p {
+  font-family: Arial, sans-serif;
 }
 
 ul {

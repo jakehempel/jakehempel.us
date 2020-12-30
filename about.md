@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: static
+layout: static-blog
 ---
 
 ![Headshot](/assets/img/me.jpg){:style="float: right; padding: 10px; width: 320px; height: 180px"}

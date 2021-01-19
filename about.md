@@ -13,7 +13,7 @@ I've picked up many different hobbies and dabbled in many more. I suppose one co
 
 **Gaming** -- I've always been an avid gaming enthusiast ever since I was able to use a computer. The possibilities of a virtual world in which all parameters and rules can be adjusted to create unique experiences was also a fascenating prospect to me both for entertainment and as a teaching tool. While I love all kinds of games, I mainly find myself interested in first person shooters and survival horror games for the immersion factor those kinds of game have.
 
-![Garden](/assets/img/garden.jpg){:style="float: right; padding: 10px; width: 300px; height: 200px"}
+![Garden](/assets/img/garden.jpg){:style="float: right; padding: 10px; width: 20%; height: 20%"}
 
 **Reading** -- Recreational reading is a relatively recent interest for me. In the past I have always read for information; however I've learned to enjoy sitting down from time to time to take some time to actively read. In particular, I like to read about current events technology, history, politics, or any secular topic I may find myself interested in at the time. I also enjoy reading fiction occasionally, with some of my favorite genres being post apocalyptic and science fiction.
 
@@ -21,9 +21,9 @@ I've picked up many different hobbies and dabbled in many more. I suppose one co
 
 **Gardening** -- I began gardening during my late college years. Gardening for me is a de-stressor: pruning my plants and harvesting them for various purposes is a therapeutic activity for me. Here is a picture of my herb garden at it's prime.
 
-![Ender 3](/assets/img/ender3.jpg){:style="float: right; padding: 10px; width: 220px; height: 400px"}
-
 **Fitness** -- I went into university was nowhere near being fit or at a healthy bodyweight, but all of that changed when I enrolled into my university's Air Force ROTC program. The countless mornings of physical training broke my body but rebuilt it into a stronger, healthier person. Despite my eventual medical discharge, the liked the healthy feeling I got from routine exercise and chose to stick with it to continue to live a healthy lifestyle. For my cardio I like to do a lot of outdoor running since I find treadmills as well as other stationary forms of cardio to be boring. To build strength, coordination, and flexibility I do Parkour training, which encompasses a lot running, climbing, gymnastics, and calisthenics. I find this kind of exercise the easiest to stick with because it allows me to get outside, it requires no special equipment, can be done anywhere, and most importantly it's quite a lot of fun!
+
+![Ender 3](/assets/img/ender3.jpg){:style="float: right; padding: 5px; width: 20%; height: 20%"}
 
 **Linux** -- I started dabbling in Linux around 2012 when I got a Raspberry Pi as a Christmas present. The Raspberry Pi was a valuable learning platform that I learned the ropes of using Linux Systems. As I learned more about the system I was using progressively dove deeper into the Unix Design Philosophy as well as the philosophies of the [Free Software Foundation](https://www.fsf.org/) and learned to appreciate the software ideology of 'the Linux way of doing things.' Today I maintain various servers for personal use including personal cloud storage, the web server this site is running on, among other services.
 

@@ -49,9 +49,12 @@ body {
     background-color: #003300;
     overflow: hidden;
     text-align: left;
-    font-family: Arial, sans-serif;
     font-size: 12pt;
     color: #ddffdd;
+}
+
+.container p {
+  font-family: Arial, sans-serif;
 }
 
 img .container {

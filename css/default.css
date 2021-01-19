@@ -80,6 +80,10 @@ body {
   font-family: Arial, sans-serif;
 }
 
+img {
+  display:inline;
+}
+
 ul {
   text-align: left;
 }

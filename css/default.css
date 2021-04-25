@@ -39,6 +39,8 @@ Divs and Formatting
 
 body {
   background-color: #000000;
+  background-image: url("../assets/background.gif");
+  background-repeat: repeat;
   text-align: center;
   color: #bfbfbf;
   font-family: "95";

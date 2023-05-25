@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="/css/default.css">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+
+    #pdf-viewer {
+      width: 100%;
+      height: 100%;
+    }
+    .footer{
+      margin:auto;
+    }
+
+    #scroll-container {
+      position: relative;
+    }
+
+  </style>
+</head>
+<body>
+  <div>
+    <div id="pdf-viewer"></div> </div>
+  <script src="/assets/pdf.min.js"></script>
+  <script>
+    // URL of the PDF file
+    var pdfUrl = '/assets/resume.pdf';
+
+    // Initialize PDF.js
+    pdfjsLib.GlobalWorkerOptions.workerSrc = '/assets/pdf.worker.min.js';
+
+    // Fetch the PDF document
+    pdfjsLib.getDocument(pdfUrl).promise.then(function (pdf) {
+      // Get the first page of the PDF
+      pdf.getPage(1).then(function (page) {
+        // Create a canvas element to render the PDF page
+        var canvas = document.createElement('canvas');
+        var context = canvas.getContext('2d');
+        var viewport = page.getViewport({ scale: 1 });
+
+        // Set canvas dimensions to match the viewport
+        canvas.width = viewport.width;
+        canvas.height = viewport.height;
+
+        // Append the canvas to the viewer element
+        document.getElementById('pdf-viewer').appendChild(canvas);
+
+        // Render the PDF page on the canvas
+        page.render({
+          canvasContext: context,
+          viewport: viewport
+        });
+      });
+    })
+  </script>
+</body>
+</html>

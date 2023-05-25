@@ -4,7 +4,7 @@ layout: static-blog
 ---
 
 <h4>About Me</h4>
-My name is Jake Hempel. I'm a 25 year old IT professional currently based in Pennsylvania in the greater Philadelphia area. I spent most of my life growing up in the North Jersey area and attended Rutgers University at the New Brunswick campus for my undergraduate degree of Information Technology and Informatics.
+My name is Jake Hempel. I'm a 26 year old IT professional currently based in Pennsylvania in the greater Philadelphia area. I spent most of my life growing up in the North Jersey area and attended Rutgers University at the New Brunswick campus for my undergraduate degree of Information Technology and Informatics.
 
 <h4>Hobbies and Interests</h4>
 A short, non-exhaustive list of some things I'm interested in:
